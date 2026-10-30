@@ -1,0 +1,11 @@
+C:\Users\admin 2\source\reposca242\exm\exm\bin\Debug\exm.exe.config
+C:\Users\admin 2\source\reposca242\exm\exm\bin\Debug\exm.exe
+C:\Users\admin 2\source\reposca242\exm\exm\bin\Debug\exm.pdb
+C:\Users\admin 2\source\reposca242\exm\exm\obj\Debug\exm.csproj.AssemblyReference.cache
+C:\Users\admin 2\source\reposca242\exm\exm\obj\Debug\exm.Form1.resources
+C:\Users\admin 2\source\reposca242\exm\exm\obj\Debug\exm.Properties.Resources.resources
+C:\Users\admin 2\source\reposca242\exm\exm\obj\Debug\exm.csproj.GenerateResource.cache
+C:\Users\admin 2\source\reposca242\exm\exm\obj\Debug\exm.csproj.CoreCompileInputs.cache
+C:\Users\admin 2\source\reposca242\exm\exm\obj\Debug\exm.exe
+C:\Users\admin 2\source\reposca242\exm\exm\obj\Debug\exm.pdb
+C:\Users\admin 2\source\reposca242\exm\exm\obj\Debug\exm.exe.config
